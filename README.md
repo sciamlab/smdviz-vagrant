@@ -9,7 +9,7 @@ The provided Vagrantfile setup a base virtal machine using Virtualbox with 2 cor
 To setup it clone this repo, and run vagrantup:
 
 ```shell
-$: git clone 
+$: git clone https://github.com/sciamlab/smdviz-vagrant.git 
 $: cd smdviz-vagrant
 $: vagrant up 
 ```
