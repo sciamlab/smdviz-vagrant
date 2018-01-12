@@ -14,6 +14,20 @@ $: cd smdviz-vagrant
 $: vagrant up 
 ```
 
+## Configured software
+The vagrant contains a bunch of preinstalled and configured software:
+
+* PostgreSQL 10
+* several data manipulation Bash CLI tools
+* CSVKit tool
+* CLI tool for BigML’s API
+* Jupyter Notebook
+* Apache Spark 2.1.0
+* Apache Zeppelin 0.7.3
+* Apache Superset 0.22.1
+
+as well sample data useful for the course labs
+
 
 ## License
 ```
