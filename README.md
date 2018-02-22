@@ -1,6 +1,6 @@
 # SciamLab Modern Data Visualization Course Vagrant box
 
-This is a sample Vagrant initialization project to create and configure the Vagrant box for the course.
+This is a sample Vagrant initialization project to create and configure the Vagrant box for the [course](https://www.sciamlab.com/data/sciamlab_modern_data_visualization.pdf).
 It contains a bunch of prepackaged tools and libraries in addition to the course documentations
 
 ## Vagrant configuration
